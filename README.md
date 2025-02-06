@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hotel-Management-System
 
 Simple hotel booking website with content management system. Users can book rooms for specific dates. Admin can create, update, and delete room details. Admin can manage everything in the app. Created by Ilham Riky Rismawan
@@ -50,3 +51,6 @@ Now register and login
 Email : Admin@gmail.com
 Password : 1234
 ```
+=======
+# ReservasiHotel
+>>>>>>> b8520035a96a8f0ddd76a18b863e4377d5ebfc19
